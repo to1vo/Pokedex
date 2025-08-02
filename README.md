@@ -1,4 +1,4 @@
-# Pokedex React App
+# Pokedex
 
 React (HTML/CSS, JavaScript)<br>
 [Demo](https://pokedex-to1vo.vercel.app/)
