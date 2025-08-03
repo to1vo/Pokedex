@@ -1,11 +1,16 @@
-# Pokedex
+# Pokedex ⚡
+Responsive and user friendly Pokedex created with React (Vite, Vanilla JS)
 
-React (HTML/CSS, JavaScript)<br>
-[Demo](https://pokedex-to1vo.vercel.app/)
+This application uses the [PokeAPI](https://pokeapi.co/) for the data
 
-Ohjelma hakee pokemonien tiedot [PokeAPI:sta](https://pokeapi.co/).<br>
-Käyttäjä voi tarkastella eri pokemonien tietoja,<br>
-Lajitella pokemonit tiettyyn järjestykseen,<br>
-Hakea tiettyä pokemonia nimellä<br>
+## Features
+- Browse through the first 151 Pokemons
+- Look at the stats of a selected Pokemon
+- Sort them in order of name/number
+- Search for Pokemon by name from address bar
 
-Ohjelma sisältää myös itse tehdyn BrowserRouter systeemin, joten tietyn pokemonin haku onnistuu myös osoiteriviltä.
+<img src="https://to1vo.gitlab.io/toivo-lindholm/img/projektit/Pokedex/1.PNG" width="400"><br>
+[Demo of this app](https://pokedex-to1vo.vercel.app/)
+
+<br>
+Toivo Lindholm
